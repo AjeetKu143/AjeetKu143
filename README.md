@@ -27,8 +27,3 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajeetku143&label=Profile%20views&color=0e75b6&style=flat" alt="ajeetku143" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajeetku143" alt="ajeetku143" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/yadav___ajeet" target="blank"><img src="https://img.shields.io/twitter/follow/yadav___ajeet?logo=twitter&style=for-the-badge" alt="yadav___ajeet" /></a> </p>
